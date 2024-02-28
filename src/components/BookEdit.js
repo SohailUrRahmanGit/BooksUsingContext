@@ -1,4 +1,4 @@
-function BooEdit() {
+function BookEdit() {
     return <div>Book Edit</div>
    }
    
